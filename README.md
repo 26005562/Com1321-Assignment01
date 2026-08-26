@@ -1,0 +1,76 @@
+\# Student Records Management System (SRMS)
+
+
+
+\## Description
+
+
+
+The Student Records Management System (SRMS) is a Java-based application developed to manage student information and related records efficiently.
+
+
+
+The system allows users to store, manage, and retrieve student records using an organized Java program.
+
+
+
+\## Features
+
+
+
+\- Add and manage student records
+
+\- Store student information
+
+\- Manage product information
+
+\- Generate reports
+
+\- Organize data using Java classes
+
+\- Object-oriented programming structure
+
+
+
+\## Technologies Used
+
+
+
+\- Java
+
+\- NetBeans IDE
+
+\- Git
+
+\- GitHub
+
+
+
+\## Project Structure
+
+
+
+```text
+
+Assignment1.0/
+
+├── src/
+
+│   └── javaapplication11/
+
+│       ├── JavaApplication11.java
+
+│       ├── Products.java
+
+│       └── ReportData.java
+
+├── nbproject/
+
+├── build.xml
+
+├── manifest.mf
+
+└── README.md
+
+
+
