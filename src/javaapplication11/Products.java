@@ -267,7 +267,7 @@ public class Products {
                     System.out.print("Please enter 'y' or 'n': ");
                     continue;
                 }
-                choiceInput = choiceInput.toLowerCase();//making sure
+                choiceInput = choiceInput.toLowerCase();
                 char stok = choiceInput.charAt(0);
                 
                 if(stok == 'y'){
